@@ -8,9 +8,11 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        comfortaa: ['"Comfortaa"', "sans-serif"],
+      },
+      backgroundImage: {
+        nightsky: "url('/assets/nightsky.jpg')",
       },
     },
   },

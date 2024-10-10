@@ -18,7 +18,7 @@ export default function Previous() {
         <div className="md:flex md:items-center">
           <div className="flex space-x-3 text-2xl justify-end">
             <a
-              href="https://www.johnjang.dev/"
+              href="https://developer-coral.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >

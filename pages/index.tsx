@@ -7,6 +7,7 @@ import MobileFooter from "@/components/mobile-footer";
 import About from "./about/about";
 import Previous from "../pages/previous/previous";
 import { useRef } from "react";
+import Archives from "./archives/archives";
 
 export default function Home() {
   const aboutRef = useRef<HTMLDivElement>(null);
@@ -38,6 +39,7 @@ export default function Home() {
             <Featured />
           </div>
           <Previous />
+          <Archives />
         </div>
       </main>
       <div className="block md:hidden items-start">

@@ -3,14 +3,15 @@ export default function Landing() {
     <div className="space-y-3 my-10">
       <h1 className="text-5xl">John Jang</h1>
       <h3 className="font-semibold">
-        Former Web Development Lead @ Philly Truce
+        Former Web Development Lead Apprentice @ Philly Truce
       </h3>
       <p>
-        I am originally a Product Designer / Web Designer. I started my journey
-        in web and mobile development since 2022 as a side-project. I also began
-        with assistant developer from small, tiny projects. Today, I have become
-        capable of full-stack development in the world of Web Development. I am
-        currently the Lead Web Developer at a SaaS project called OperateEase.
+        I&#39;m a Product and Web Designer passionate about creating intuitive
+        and impactful digital experiences. To enhance my design skills, I
+        learned web development and now work with tools like TypeScript, React,
+        and Node.js. Ever since 2022, I have been carrying side projects in
+        development to continue my growth and bridge the gap between design and
+        functionality.
       </p>
     </div>
   );

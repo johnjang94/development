@@ -11,7 +11,8 @@ export default function Landing() {
         learned web development and now work with tools like TypeScript, React,
         and Node.js. Ever since 2022, I have been carrying side projects in
         development to continue my growth and bridge the gap between design and
-        functionality.
+        functionality. Today, I am capable of full-stack development and am
+        contributing to a project called OperateEase as a Web Developer as well.
       </p>
     </div>
   );
